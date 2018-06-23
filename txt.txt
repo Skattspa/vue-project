@@ -1,1 +1,3 @@
 prueba git
+git remote add gitlab url-to-gitlab-repo
+git push gitlab master
