@@ -1,3 +1,13 @@
 prueba git
 git remote add gitlab url-to-gitlab-repo
 git push gitlab master
+
+
+##
+Cuando te das cuenta de que estas trabajando en la rama equivocada
+Creas una rama en ese punto
+Te cambias de rama
+Sigues currando
+Haces merge.
+
+https://gist.github.com/rvl/c3f156e117e22a25f242
